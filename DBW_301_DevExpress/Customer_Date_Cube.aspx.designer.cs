@@ -31,24 +31,6 @@ namespace DBW_301_DevExpress {
         protected global::DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid ASPxPivotGrid1;
         
         /// <summary>
-        /// fieldCustomerType control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldCustomerType;
-        
-        /// <summary>
-        /// fieldFullName control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldFullName;
-        
-        /// <summary>
         /// fieldCalendarYear control.
         /// </summary>
         /// <remarks>
@@ -110,5 +92,14 @@ namespace DBW_301_DevExpress {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldUnitsSold;
+        
+        /// <summary>
+        /// fieldCustomerType control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldCustomerType;
     }
 }
