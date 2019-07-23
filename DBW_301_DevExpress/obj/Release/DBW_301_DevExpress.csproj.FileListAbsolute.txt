@@ -157,7 +157,6 @@ C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\bin\de\DevE
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\obj\Release\DBW_301_DevExpress.csprojAssemblyReference.cache
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\obj\Release\DBW_301_DevExpress.dll.licenses
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\obj\Release\DBW_301_DevExpress.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\DBW_Final_DevExpress\DBW_301_DevExpress\obj\Release\DBW_301_DevExpress.csproj.CopyComplete

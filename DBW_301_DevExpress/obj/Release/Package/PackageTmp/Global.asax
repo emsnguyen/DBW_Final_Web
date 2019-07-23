@@ -1,1 +1,0 @@
-<%@ Application Codebehind="Global.asax.cs" Inherits="DBW_301_DevExpress.Global_asax" Language="C#" %>
