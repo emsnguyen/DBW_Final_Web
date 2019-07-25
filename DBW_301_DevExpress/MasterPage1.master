@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta charset="utf-8" />    
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server" />
+  <link href="css/bootstrap.min.css" rel="/stylesheet" />
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+  
+    <ul>
+   <li> <a href="index.html">Home</a></li>
+   <li> <a href="Customer_Date_Item_Location_Cube.aspx">4 dimensional cube</a></li>
+    <li><a href="Customer_Date_Cube.aspx">CustomerDateCube</a></li>
+    <li><a href="Customer_Location_Cube.aspx">CustomerLocationCube</a></li>
+    <li><a href="DateItemCube.aspx">DateItemCube </a></li>
+    <li><a href="DateItemLocationCube.aspx">DateItemLocationCube</a></li>
+    <li><a href="LocationDateCube.aspx">LocationDateCube</a></li>
+    <li><a href="LocationItemCube.aspx">LocationItemCube</a></li>
+    </ul>
+    <br />
+    <div>
+        <asp:ContentPlaceHolder id="CPH1" runat="server" />
+    </div>
+</body>
+</html>

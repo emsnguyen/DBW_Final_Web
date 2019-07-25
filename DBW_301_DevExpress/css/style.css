@@ -2432,6 +2432,18 @@ figure.effect-oscar:hover img {
 	padding: 0;
 }
 
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
 .subscribe button{
 	padding: 13px 20px;
 	color: #fff;
